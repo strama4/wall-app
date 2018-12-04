@@ -8,3 +8,4 @@ To get started:
 - Clone the repository to your local machine
 - In the root folder, run `npm install` in your terminal
 - From the root folder, run `node src/index.js` to launch the application
+- Navigate to http://localhost:3000 to view the app
