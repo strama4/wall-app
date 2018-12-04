@@ -6,5 +6,5 @@ To get started:
 
 - Make sure you have Node.js and npm installed.
 - Clone the repository to your local machine
-- In the root folder, run `npm init` in your terminal
+- In the root folder, run `npm install` in your terminal
 - From the root folder, run `node src/index.js` to launch the application
